@@ -4,8 +4,8 @@ import "./nav.css"
 
 const Nav = () => {
     return(
-        <div className="navContain">
-            <ul className="navList">
+        <div className="bg-black position-sticky top-0 m-0">
+            <ul className="p-3 d-flex list-unstyled">
                 <li>
                     <Link to="/"><button className="navBtn">Home</button></Link>
                 </li>

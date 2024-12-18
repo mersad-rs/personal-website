@@ -3,20 +3,8 @@
     justify-content: space-around;
     align-items: center;
     font-size: 1.2rem;
-}
-.name{
-    color: red;
-    font-size: 5rem;
-    font-family: "Sofadi One", system-ui;
-}
-.pic{
-    width: 75%;
-    height: auto;
-    
-}
+} 
+
 .des{
     line-height: 2.5; 
-}
-.bg-d{
-    background-color: rgb(17, 17, 17);
 }

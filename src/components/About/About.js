@@ -1,10 +1,10 @@
 import React from "react";
 import "./About.css"
-
+ 
 const About = () => {
     return(
-        <div>
-            <div className="container w-75 bg-d p-5 rounded-5 my-5 mborder">
+        <div className="bg-black">
+            <div className="container w-75 bg-dark text-white p-5 rounded-5 my-5 border-danger border">
                 <p className="fw-lighter fs-5">Hello! I’m Mersad, a passionate programmer and technology enthusiast dedicated to crafting innovative solutions through code. With a foundation in Html, Css, JS, Reat, Bootstrap, I thrive on the challenges that come with developing software that not only meets user needs but also enhances their experiences.My journey into programming began about four years ago. I was captivated by the power of code to bring ideas to life and solve real-world problems.I am proficient in a some technologies and frameworks, including Html, css ,JS , Bootstrap ,linux ,and a little bit of graphics, and I am always eager to learn new languages and tools to stay current in this ever-evolving field. I am excited about the journey ahead and am always open to new opportunities and collaborations. If you’d like to connect, discuss programming, or explore potential projects, please feel free to reach out through the contact page.</p>
             </div>
 

@@ -4,8 +4,8 @@ import "./Footer.css"
 const Footer = () => {
     return(
         <div className="Footer">
-            <div className="row bg-f p-5 align-items-center">
-                <div className="col-md-8">
+            <div className="row bg-f p-5 align-items-center text-white">
+                <div className="col-md-8"> 
                     <p>Thank you for visiting my website!If you have any questions or would like to connect, feel free to reach out through my contact page or follow me on social media.</p>
                 </div>
                 <div className="col-md-4">
